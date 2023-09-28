@@ -6,8 +6,7 @@ int main (){
 	
 	n1 = 1;
 	
-	printf("Maior e menor de 10 numeros lidos \n");
-	printf("Digite um numero para inicializar as variaveis: ");
+	printf("Digite um numero: ");
 	scanf("%d", &n2);
 	
 	menorn = maior = n2;
